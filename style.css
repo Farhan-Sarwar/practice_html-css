@@ -1,0 +1,18 @@
+.head1{
+	color:red;
+}
+.head2{
+	background-color: pink;
+	border:solid;
+	font-style: italic;
+}
+#heading1{
+	color:blue;
+	background-color: yellow;
+	border:solid;
+}
+#heading2{
+	color:yellow;
+	background-color: green;
+	border: double;
+}
